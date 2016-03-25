@@ -1,0 +1,2 @@
+# WinSay
+windowsでsayコマンドを使うためのスクリプト
